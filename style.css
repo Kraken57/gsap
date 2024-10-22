@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: gilroy, sans-serif;
+  color: #fff;
 }
 
 html,
@@ -11,18 +12,18 @@ body {
   height: 100%;
 }
 
-body{
-    background-color: #111;
+body {
+  background-color: #111;
 }
 
-#box1{
-    height: 300px;
-    width: 300px;
-    background-color: crimson;
+#box1 {
+  height: 300px;
+  width: 300px;
+  background-color: crimson;
 }
 
-#box2{
-    height: 300px;
-    width: 300px;
-    background-color: greenyellow;
+#box2 {
+  height: 300px;
+  width: 300px;
+  background-color: greenyellow;
 }
